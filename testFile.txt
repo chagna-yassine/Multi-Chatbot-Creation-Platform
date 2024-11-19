@@ -1,0 +1,18 @@
+
+# Instructions to Set Up RAG System
+
+This file contains the necessary information and credentials required to set up your RAG (Retrieval-Augmented Generation) system. 
+Please follow these steps:
+
+1. Copy the credentials below and configure your environment.
+2. Use the API key to authenticate your requests.
+3. Keep this file secure and do not share it publicly.
+
+# Credentials
+Username: user_363144bf
+Password: pass_060d-446
+API_Key: a918b335-df41-477b-b219-e10c22a007a4
+
+# Important Notes
+- These credentials are generated for testing purposes only.
+- Ensure your setup aligns with your system's security policies.
