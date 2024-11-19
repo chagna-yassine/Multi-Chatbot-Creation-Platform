@@ -1,0 +1,27 @@
+# Core FastAPI dependencies
+fastapi==0.100.0
+uvicorn==0.22.0
+
+# Database and ORM
+sqlalchemy==2.0.20
+sqlite==3.41.2
+
+# Security and Authentication
+bcrypt==4.0.1
+pyjwt==2.8.0
+
+# File handling for uploads
+python-multipart==0.0.6
+
+# AI-related libraries
+sentence-transformers==2.2.2
+chromadb==0.3.25
+
+# Validation and typing
+pydantic==1.10.11
+
+# Testing
+pytest==7.4.2
+
+# Other utilities
+requests==2.31.0

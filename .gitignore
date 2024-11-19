@@ -1,0 +1,33 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Python egg metadata
+*.egg-info/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Deployment files
+*.db
+*.sqlite3
+
+# Dependency directories
+node_modules/
